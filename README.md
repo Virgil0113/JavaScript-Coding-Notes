@@ -14,3 +14,4 @@ process (1/9) Using Book <JavaScript 数据结构与算法第2版 >
 
 [Chapter 2 -- 排序算法](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part1/Chapter2.js)
 
+Chapter 3 -- 数组求和
