@@ -19,3 +19,8 @@ process (1/9) Using Book <JavaScript 数据结构与算法第2版 >
 ### 第二部分 栈
 
 [Chapter 4 -- 十进制转二进制](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part1/Chapter4.js)
+
+### 第三部分 队列
+
+[Chapter 5 -- 优先队列](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part1/Chapter5.js)
+
