@@ -24,4 +24,5 @@ process (1/9) Using Book <JavaScript 数据结构与算法第2版 >
 
 [Chapter 5 -- 优先队列](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part1/Chapter5.js)
 
- Chapter 6 -- 击鼓传花
+ [Chapter 6 -- 击鼓传花](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part1/Chapter6.js)
+
