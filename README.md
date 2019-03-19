@@ -28,5 +28,5 @@ process (3/9) Using Book <JavaScript 数据结构与算法第2版 >
 
 ### 第四部分 链表
 
-Chapter 7 -- 尾部追加元素
+[Chapter 7 -- 尾部追加元素](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part1/Chapter7.js)
 
