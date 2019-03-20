@@ -32,4 +32,5 @@ process (3/9) Using Book <JavaScript 数据结构与算法第2版 >
 
 [Chapter 8 -- 从链表中移除元素](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part1/Chapter8.js)
 
-Chapter 9 -- 在任意位置插入元素
+[Chapter 9 -- 在任意位置插入元素](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part1/Chapter9.js)
+
