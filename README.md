@@ -40,7 +40,7 @@ process (3/9) Using Book <JavaScript 数据结构与算法第2版 >
 
 ## Part 2 剑指 Offer  
 
-Process (1/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+Process (2/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
 [Question 1 -- 二维数组中的查找](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question1.js)
 
