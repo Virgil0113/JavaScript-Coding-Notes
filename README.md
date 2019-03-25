@@ -48,4 +48,5 @@ Process (3/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2c
 
 [Question 3 -- 从头到尾打印链表](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question3.js)
 
-Question 4 -- 重建二叉树
+[Question 4 -- 重建二叉树](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question4.js)
+
