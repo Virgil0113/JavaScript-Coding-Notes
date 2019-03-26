@@ -13,18 +13,18 @@
       (3) 最终第一个指针将指向前面数组的最后一个元素，第二个指针指向后面数组中的第一个元素。
           也就是说他们将指向两个相邻的元素，而第二个指针指向的刚好是最小的元素，这就是循环的结束条件。*/
 
-function minNumberInRotateArray(nums)
+function minNumberInRotateArray(rotateArray)
 {
-    var l = 0, r = nums.length-1;
+    var l = 0, r = rotateArray.length-1;
      while (l < r) {
          var mid = Math.floor((l + r) / 2);
-         if (nums[mid] > nums[l]) {
+         if (rotateArray[mid] > rotateArray[l]) {
              l = mid;
-         } else if (nums[mid] < nums[l]){
+         } else if (rotateArray[mid] < rotateArray[l]){
              r = mid;
          } else { 
              l++;  //如果中间元素等于第一个元素将left指针向右移动
          }
      }
-     return nums[l];
+     return rotateArray[l];
 }
