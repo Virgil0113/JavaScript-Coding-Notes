@@ -55,3 +55,5 @@ Process (5/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2c
 [Question 6 -- 旋转数组的最小数字](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question6.js)
 
 [Question 7 -- 跳台阶](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question7.js)
+
+Question 8 -- 变态跳台阶
