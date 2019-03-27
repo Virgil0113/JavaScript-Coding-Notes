@@ -56,4 +56,5 @@ Process (5/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2c
 
 [Question 7 -- 跳台阶](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question7.js)
 
-Question 8 -- 变态跳台阶
+[Question 8 -- 变态跳台阶](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question8.js)
+
