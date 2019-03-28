@@ -66,3 +66,7 @@ Process (10/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2
 
 [Question 12 -- 调整数组顺序使奇数位于偶数前面](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question12.js)
 
+[Question 13 -- 链表中的第k个节点](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question13.js)
+
+[Question 14 -- 反转链表](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question14.js)
+
