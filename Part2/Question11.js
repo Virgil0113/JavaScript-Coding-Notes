@@ -13,12 +13,12 @@ function Power(base, exponent)
     var n = Math.abs(exponent);
     var result = 1.0;
     if (n === 0) return 1
-    else if (exponent < 0 && base === 0) {
+    else if (exponent < 0 && base === 0) { //值为无穷大
         throw new RuntimeException("分母不能为0");
     } else {
         while(n) {
-            if(n & 1) {
-                result *= base;
+            if(n & 1 == 1) {
+                result *= base; //为1时将该位代表的乘数累乘到最终结果
             }
             base *= base; //翻倍
             n = n>>1;//右移一位

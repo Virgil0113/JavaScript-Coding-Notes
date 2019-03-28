@@ -62,3 +62,4 @@ Process (10/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2
 
 [Question 10 -- 二进制中1的个数](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question10.js)
 
+[Question 11 -- 数值的整数次方](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question11.js)
