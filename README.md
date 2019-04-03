@@ -82,3 +82,4 @@ Process (20/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2
 
 [Question 20 -- 栈的压入弹出序列](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question20.js)
 
+Question 21 -- 从上往下打印二叉树
