@@ -46,7 +46,7 @@ Process (22/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2
 
 [Question 2 -- 替换空格](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question02.js)
 
-[Question 3 -- 从头到尾打印链表](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question03.js)
+[Question 3 -- 从尾到头打印链表](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question03.js)
 
 [Question 4 -- 重建二叉树](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question04.js)
 
@@ -87,4 +87,3 @@ Process (22/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2
 [Question 22 -- 二叉搜索树的后序遍历序列](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question22.js)
 
 [Question 23 -- 二叉树和为某一值的路径](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question23.js)
-
