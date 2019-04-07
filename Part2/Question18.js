@@ -6,40 +6,40 @@
 4.根据一圈左上角和右下角坐标判断“从左到右”，“从上到下”，“从右到左”，“从下到上”需要打印的点。 */
 
 function printMatrix(matrix) {
-	if (matrix == null || matrix.length == 0) {
-		return;
-	}
-	var rows = matrix.length;
-	var cols = matrix[0].length;
-	var start = 0;
-	var result = [];
+    if (matrix == null || matrix.length == 0) {
+        return;
+    }
+    var rows = matrix.length;
+    var cols = matrix[0].length;
+    var start = 0;
+    var result = [];
 
-	while (cols > start * 2 && rows > start * 2) {
-		var endX = cols - 1 - start;
-		var endY = rows - 1 - start;
-		//从左到右打印一行
-		for (var i = start; i <= endX; i++) {
-			result.push(matrix[start][i]);
-		}
-		//从上到下打印一列
-		if (start < endY) {
-			for (var i = start + 1; i <= endY; i++) {
-				result.push(matrix[i][endX]);
-			}
-		}
-		//从右到左打印一行
-		if (start < endX && start < endY) {
-			for (var i = endX -1; i >= start; i--) {
-                result.push(matrix[endY][i]);
-			}
-		}
-		//从下到上打印一列
-		if (start < endX && start < endY - 1) {
-			for (var i = endY -1; i >= start + 1; i--) {
-				result.push(matrix[i][start]);
-			}
-		}
-		start++;
-	}
-	return result;
+    while (cols > start * 2 && rows > start * 2) {
+        var endX = rows - 1 - start;
+        var endY = cols - 1 - start;
+        //从左到右打印一行
+        for (var i = start; i <= endY; i++) {
+            result.push(matrix[start][i]);
+        }
+        //从上到下打印一行
+        if (start < endX) {
+            for (var i = start + 1; i <= endX; i++) {
+                result.push(matrix[i][endY]);
+            }
+        }
+        //从右到左打印一行
+        if (start < endX && start < endY) {
+            for (var i = endY - 1; i >= start; i--) {
+                result.push(matrix[endX][i]);
+            }
+        }
+        //从下到上打印一行
+        if (start < endY && start < endX - 1) {
+            for (var i = endX - 1; i >= start + 1; i--) {
+                result.push(matrix[i][start]);
+            }
+        }
+        start++;
+    }
+    return result;
 }
