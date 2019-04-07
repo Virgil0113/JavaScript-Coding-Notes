@@ -40,7 +40,7 @@ process (4/9) Using Book <JavaScript 数据结构与算法第2版 >
 
 ## Part 2 剑指 Offer  
 
-Process (22/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
+Process (29/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)
 
 [Question 1 -- 二维数组中的查找](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question01.js)
 
@@ -88,4 +88,8 @@ Process (22/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2
 
 [Question 23 -- 二叉树和为某一值的路径](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question23.js)
 
-Question 24 -- 复杂链表的复制
+[Question 24 -- 复杂链表的复制](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question24.js)
+
+[Question 28 -- 数组中出现次数超过一半的树](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question28.js)
+
+[Question 29 -- 最小的K个数](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question29.js)
