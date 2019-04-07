@@ -26,5 +26,5 @@ function minNumberInRotateArray(rotateArray)
              l++;  //如果中间元素等于第一个元素将left指针向右移动
          }
      }
-     return rotateArray[l];
+     return rotateArray[r];
 }
