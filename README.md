@@ -93,3 +93,6 @@ Process (29/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2
 [Question 28 -- 数组中出现次数超过一半的树](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question28.js)
 
 [Question 29 -- 最小的K个数](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question29.js)
+
+Question 30 -- 整数中1出现的次数（从1到n整数中1出现的次数）
+
