@@ -19,7 +19,8 @@ function adjustSequence(sequence, start, end) {
 	}
 	return adjustSequence(sequence, start, i-1) && adjustSequence(sequence, i , end-1);
 
-}function VerifySequenceOfBST(sequence) {
+}
+function VerifySequenceOfBST(sequence) {
 	if (!sequence.length) {
 		return false;
 	}
