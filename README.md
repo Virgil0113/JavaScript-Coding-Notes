@@ -36,9 +36,9 @@ process (4/9) Using Book <JavaScript 数据结构与算法第2版 >
 
 ### 第五部分 排序和搜索算法
 
-Chapter 10 -- 冒泡排序
+[Chapter 10 -- 冒泡排序](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part1/Chapter10.js)
 
-
+[Chapter 11 -- 快速排序](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part1/Chapter10.js)
 
 ---
 
