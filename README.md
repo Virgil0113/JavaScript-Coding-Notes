@@ -100,3 +100,5 @@ Process (29/66) Using  from [NewCoder](https://www.nowcoder.com/practice/abc3fe2
 
 [Question 30 -- 整数中1出现的次数（从1到n整数中1出现的次数）](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part2/Question30.js)
 
+Question 31 -- 数组中的逆序对
+
