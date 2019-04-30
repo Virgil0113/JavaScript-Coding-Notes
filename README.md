@@ -44,7 +44,9 @@ process (4/9) Using Book <JavaScript 数据结构与算法第2版 >
 
 [Chapter 12 -- 中序遍历](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part1/Chapter12.js)
 
-Chapter 13 -- 先序遍历
+[Chapter 13 -- 先序遍历](https://github.com/Virgil0113/JavaScript-Coding-Notes/blob/master/Part1/Chapter13.js)
+
+Chapter 14 -- 后序遍历
 
 ---
 
